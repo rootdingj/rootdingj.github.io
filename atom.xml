@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-28T15:26:47.600Z</updated>
+  <updated>2018-11-21T12:45:39.348Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,9 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/11/21/2018112102/"/>
+    <id>http://yoursite.com/2018/11/21/2018112102/</id>
+    <published>2018-11-21T12:45:39.146Z</published>
+    <updated>2018-11-21T12:45:39.348Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>centos7安装mysql-5.7.24</title>
+    <link href="http://yoursite.com/2018/11/21/2018112101/"/>
+    <id>http://yoursite.com/2018/11/21/2018112101/</id>
+    <published>2018-11-21T12:39:47.594Z</published>
+    <updated>2018-11-21T13:12:58.756Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.</p><p><a href="https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.24-linux-glibc2.12-x86_64.tar.gz" target="_blank" rel="noopener">https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.24-linux-glibc2.12-x86_64.tar.gz</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.24-linux-glibc2.12-x86_64.tar.gz&quot; target=&quot;_blank&quot; rel=&quot;noopene
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/04/hello-world/"/>
-    <id>http://yoursite.com/2018/11/04/hello-world/</id>
+    <link href="http://yoursite.com/2018/11/04/2018102702/"/>
+    <id>http://yoursite.com/2018/11/04/2018102702/</id>
     <published>2018-11-04T14:01:43.347Z</published>
     <updated>2018-10-28T15:26:47.600Z</updated>
     
@@ -39,8 +75,8 @@
   
   <entry>
     <title>blog2018110401</title>
-    <link href="http://yoursite.com/2018/11/04/blog2018110401/"/>
-    <id>http://yoursite.com/2018/11/04/blog2018110401/</id>
+    <link href="http://yoursite.com/2018/11/04/2018110401/"/>
+    <id>http://yoursite.com/2018/11/04/2018110401/</id>
     <published>2018-11-04T07:10:14.000Z</published>
     <updated>2018-11-04T07:10:14.161Z</updated>
     
@@ -53,8 +89,8 @@
   
   <entry>
     <title>blog2018110101</title>
-    <link href="http://yoursite.com/2018/11/01/blog2018110101/"/>
-    <id>http://yoursite.com/2018/11/01/blog2018110101/</id>
+    <link href="http://yoursite.com/2018/11/01/2018110101/"/>
+    <id>http://yoursite.com/2018/11/01/2018110101/</id>
     <published>2018-11-01T15:40:53.000Z</published>
     <updated>2018-11-01T15:42:36.760Z</updated>
     
@@ -71,8 +107,8 @@
   
   <entry>
     <title>GitHub+Hexo 搭建个人博客</title>
-    <link href="http://yoursite.com/2018/10/27/blog2018102701/"/>
-    <id>http://yoursite.com/2018/10/27/blog2018102701/</id>
+    <link href="http://yoursite.com/2018/10/27/2018102701/"/>
+    <id>http://yoursite.com/2018/10/27/2018102701/</id>
     <published>2018-10-27T02:28:11.000Z</published>
     <updated>2018-10-27T07:19:14.822Z</updated>
     
