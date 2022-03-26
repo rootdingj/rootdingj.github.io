@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Steven&#39;s blog</title>
+  <icon>https://www.gravatar.com/avatar/36cf64bc38e18ee9c137f0ab7d4be118</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-21T12:45:39.348Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Steven Ting</name>
+    <email>dj673344908@163.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/11/21/2018112102/"/>
+    <id>http://yoursite.com/2018/11/21/2018112102/</id>
+    <published>2018-11-21T12:45:39.146Z</published>
+    <updated>2018-11-21T12:45:39.348Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>centos7安装mysql-5.7.24</title>
+    <link href="http://yoursite.com/2018/11/21/2018112101/"/>
+    <id>http://yoursite.com/2018/11/21/2018112101/</id>
+    <published>2018-11-21T12:39:47.594Z</published>
+    <updated>2018-11-21T13:12:58.756Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.</p><p><a href="https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.24-linux-glibc2.12-x86_64.tar.gz" target="_blank" rel="noopener">https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.24-linux-glibc2.12-x86_64.tar.gz</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.24-linux-glibc2.12-x86_64.tar.gz&quot; target=&quot;_blank&quot; rel=&quot;noopene
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/11/04/2018102702/"/>
+    <id>http://yoursite.com/2018/11/04/2018102702/</id>
+    <published>2018-11-04T14:01:43.347Z</published>
+    <updated>2018-10-28T15:26:47.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>blog2018110401</title>
+    <link href="http://yoursite.com/2018/11/04/2018110401/"/>
+    <id>http://yoursite.com/2018/11/04/2018110401/</id>
+    <published>2018-11-04T07:10:14.000Z</published>
+    <updated>2018-11-04T07:10:14.161Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>blog2018110101</title>
+    <link href="http://yoursite.com/2018/11/01/2018110101/"/>
+    <id>http://yoursite.com/2018/11/01/2018110101/</id>
+    <published>2018-11-01T15:40:53.000Z</published>
+    <updated>2018-11-01T15:42:36.760Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="插件优化" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub+Hexo 搭建个人博客</title>
+    <link href="http://yoursite.com/2018/10/27/2018102701/"/>
+    <id>http://yoursite.com/2018/10/27/2018102701/</id>
+    <published>2018-10-27T02:28:11.000Z</published>
+    <updated>2018-10-27T07:19:14.822Z</updated>
+    
+    <content type="html"><![CDATA[<p>三种主流的搭建博客方式：<br>1.Git+Github+Markdown+hexo （免费）<br>2.Git+Github+Markdown+jekyll （免费）<br>3.虚拟主机＋插件＋Wordpress （付费）</p><p>搭建步骤：<br>  1.软件安装、环境搭建</p><pre><code>- git : 将静态网页上传到github服务器需要用到的版本控制工具- node.js: hexo需要用到的运行环境- hexo ：一个快速、简洁且高效的博客框架- Atom : Markdown文件编辑工具..node.js官网： http://nodejs.cn/download/</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;三种主流的搭建博客方式：&lt;br&gt;1.Git+Github+Markdown+hexo （免费）&lt;br&gt;2.Git+Github+Markdown+jekyll （免费）&lt;br&gt;3.虚拟主机＋插件＋Wordpress （付费）&lt;/p&gt;
+&lt;p&gt;搭建步骤：&lt;br&gt;  1.软件安装
+      
+    
+    </summary>
+    
+    
+      <category term="hexo、github、域名" scheme="http://yoursite.com/tags/hexo%E3%80%81github%E3%80%81%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+</feed>
